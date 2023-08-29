@@ -12,6 +12,10 @@ ___
 <img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> <img src="./assets/js-logo1.png" width=80>
 ___
 
+## My Codewars 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
+
+
 
 ### 💬 Contact Me 📞
 <p align="left"> <a href="https://www.linkedin.com/in/ivan-nikitenko-063162230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
