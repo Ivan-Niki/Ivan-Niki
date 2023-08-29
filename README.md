@@ -1,4 +1,4 @@
-![Logo](assets/Logo-gh-in.png)
+![Logo]()
 Header
 
 About me
