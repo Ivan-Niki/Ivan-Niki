@@ -9,7 +9,7 @@
 ✅<img src="./assets/http-20.png" width=80>
 ___
 ### 🚀 Technologies 📠
-<img src="./assets/html5-logo.png" width=100> <img src="./assets/css3-logo-2.png" width=100> <img src="./assets/js-logo1.png" width=80>
+<img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> <img src="./assets/js-logo1.png" width=80>
 ___
 
 
