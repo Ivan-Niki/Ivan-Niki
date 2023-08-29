@@ -2,12 +2,16 @@
 
 ## Hi there 👋. I'm a beginner QA-engineer.
 
-## 📈 My Skills 💻
+### 📈 My Skills 💻
 ✅<img src="./assets/git2-logo.png" width=80> ✅<img src="./assets/GitHub-Logo223.png" width=100> ✅ <img src="./assets/linux-operating-system-3.png" width=80> <br>
 ✅ <img src="./assets/postgresql-6-logo.png" width=100> ✅ <img src="./assets/mysql5-logo.png" width=100>  <br>
 ✅ <img src="./assets/postman1-logo.png" width=90> ✅ <img src="./assets/Google-DevTools15.jpg" width=100>
 ✅<img src="./assets/http-20.png" width=85>
 ___
+### 🚀 Technologies 📠
+<img src="./assets/html5-logo.png" width=100>
+<img src="./assets/css3-logo-2.png" width=100>
+<img src="./assets/js-logo1.png" width=80>
 
 
 ### 💬 Contact Me 📞
