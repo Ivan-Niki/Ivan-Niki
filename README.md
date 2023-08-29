@@ -5,7 +5,7 @@
 ## My Skills
 <img src="./assets/git2-logo.png" width=100> <img src="./assets/GitHub-Logo22.png" width=170> <br>
 <img src="./assets/postgresql-6-logo.png" width=150> <img src="./assets/mysql5-logo.png" width=130>  <br>
-<img src="./assets/postman1-logo.png" width=110> <img src="./assets/Google-DevTools-ready1.jpg" width=110>
+<img src="./assets/postman1-logo.png" width=110> <img src="./assets/Google-DevTools15.jpg" width=130>
 <img src="./assets/black-devtools-ready1.jpg" width=120>
 ___
 
