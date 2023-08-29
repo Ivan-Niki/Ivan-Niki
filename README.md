@@ -12,9 +12,12 @@ ___
 <img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> <img src="./assets/js-logo1.png" width=80>
 ___
 
-## My Codewars 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
+## 💎 My Codewars:
+[![codewars](https://www.codewars.com/users/Ivan_Nikitenko/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
 
+## Profile Summary Cards:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivan-Niki&theme=algolia) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ivan-Niki&theme=algolia)
 
 
 ### 💬 Contact Me 📞
