@@ -1,16 +1,18 @@
-![Logo](assets/logo-5-gh-in.png)
+![Logo](assets/logo-gh-in.png)
 
 ## Hi there 👋. I'm a beginner QA-engineer.
 
-## My Skills
-<img src="./assets/git2-logo.png" width=100> <img src="./assets/GitHub-Logo22.png" width=170> <br>
-<img src="./assets/postgresql-6-logo.png" width=150> <img src="./assets/mysql5-logo.png" width=130>  <br>
-<img src="./assets/postman1-logo.png" width=110> <img src="./assets/Google-DevTools15.jpg" width=130>
-<img src="./assets/black-devtools-ready1.jpg" width=120>
+## 📈 My Skills 💻
+✅<img src="./assets/git2-logo.png" width=100> ✅<img src="./assets/GitHub-Logo223.png" width=120> ✅ <img src="./assets/linux-operating-system-3.png" width=100> <br>
+✅ <img src="./assets/postgresql-6-logo.png" width=150> ✅ <img src="./assets/mysql5-logo.png" width=130>  <br>
+✅ <img src="./assets/postman1-logo.png" width=110> ✅ <img src="./assets/Google-DevTools15.jpg" width=130>
+✅<img src="./assets/http-20.png" width=100>
 ___
 
-### Contact Me 👋
 
+### 💬 Contact Me 📞
+<p align="left"> <a href="https://www.linkedin.com/in/ivan-nikitenko-063162230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-logo-5.png" width="34" height="32" /> </picture> </a></p>
 
 
 <!--
