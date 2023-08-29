@@ -1,4 +1,4 @@
-![Logo](assets/logo-gh-in.png)
+![Logo](assets/Logo-gh-in.png)
 
 ## Hi there 👋. I'm a beginner QA-engineer.
 
