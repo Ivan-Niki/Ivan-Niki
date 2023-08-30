@@ -11,7 +11,7 @@
 _____
 
 ## 🚀 Technologies 📠
-<img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> <img src="./assets/js-logo1.png" width=80>
+<img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> &nbsp; <img src="./assets/js-logo1.png" width=75>
 _____
 
 ## 💎 My Codewars:
