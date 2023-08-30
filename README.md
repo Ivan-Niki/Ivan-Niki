@@ -1,4 +1,6 @@
-![Logo](assets/header-logo.png)
+<img src="./assets/header-logo.png" width=400>
+
+<!--![Logo](assets/header-logo.png)-->
 
 ## Hi there 👋. I'm a beginner QA-engineer.
 
@@ -18,7 +20,7 @@ _____
 [![codewars](https://www.codewars.com/users/Ivan_Nikitenko/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
 _____
 
-## Profile Summary:
+## 📈 Profile Summary:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ivan-Niki&theme=algolia) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivan-Niki&theme=algolia)
 _____
