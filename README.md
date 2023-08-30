@@ -6,7 +6,7 @@
 <img src="./assets/git2-logo.png" width=80> <img src="./assets/GitHub-Logo223.png" width=100>  <img src="./assets/linux-operating-system-3.png" width=80> <br>
 <img src="./assets/postgresql-6-logo.png" width=100>  <img src="./assets/mysql5-logo.png" width=100>   <br>
  <img src="./assets/postman1-logo.png" width=90> <img src="./assets/http-20.png" width=80>  <img src="./assets/black-devtools-ready1.jpg" width=100> 
-<img src="./assets/CharlesProxy-logo1.png" width=80> <img src="./assets/Fiddler-Everywhere-Icon.png" width=80> <br>
+<img src="./assets/CharlesProxy-logo1.png" width=80> <img src="./assets/Fiddler-Everywhere-Icon.png" width=82> <br>
 
 _____
 
