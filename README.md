@@ -25,8 +25,8 @@ _____
 
 
 ## 💬 Contact Me 📞
-<p align="left"> <a href="https://www.linkedin.com/in/ivan-nikitenko-063162230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-logo-5.png" width="34" height="32" /> </picture> </a></p>
+<!--<p align="left"> <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture> </a> <a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-logo-5.png" width="34" height="32" /> </picture> </a> </p> <br> -->
+<a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-button-icon1.png" height="35" /> </a> &nbsp; <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <img src="assets/linkedin_button_icon.png" height="35" /> </a>
 
 
 <!--
