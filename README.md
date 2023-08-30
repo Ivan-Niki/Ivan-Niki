@@ -1,4 +1,4 @@
-<img src="./assets/header-logo.png" width=400>
+<img src="./assets/header-logo.png" width=700>
 
 <!--![Logo](assets/header-logo.png)-->
 
