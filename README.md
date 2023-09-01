@@ -36,8 +36,8 @@ _____
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ivan-Niki&theme=blue_green) &nbsp; &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ivan-Niki&theme=blue_green&utcOffset=+3.00)
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivan-Niki&theme=blue_green)-->
 
-_____
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Niki&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+___
 
 ## 💬 Contact Me 📞
 <!--<p align="left"> <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture> </a> <a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-logo-5.png" width="34" height="32" /> </picture> </a> </p> <br> -->
