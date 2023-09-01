@@ -13,7 +13,7 @@
 ✔️API-testing using Postman (REST, SOAP); <br>
 ✔️Experience of using Charles & Fiddler sniffer; <br>
 ✔️Knowledge of SQL
-
+___
 
 ## 📈 My Skill Set and Tools 💻
 <img src="./assets/git2-logo.png" width=80> <img src="./assets/GitHub-Logo223.png" width=90>  <img src="./assets/linux-operating-system-3.png" width=75> <br>
