@@ -15,12 +15,11 @@
 ✔️Knowledge of SQL
 
 
-
 ## 📈 My Skill Set and Tools 💻
-<img src="./assets/git2-logo.png" width=80> <img src="./assets/GitHub-Logo223.png" width=90>  <img src="./assets/linux-operating-system-3.png" width=80> <br>
+<img src="./assets/git2-logo.png" width=80> <img src="./assets/GitHub-Logo223.png" width=90>  <img src="./assets/linux-operating-system-3.png" width=75> <br>
 <img src="./assets/postgresql-icon.png" width=80> &nbsp; <img src="./assets/mysql-icon.png" width=76>   <br>
- <img src="./assets/postman1-logo.png" width=80> &nbsp; <img src="./assets/http-20.png" width=75> &nbsp; <img src="./assets/black-devtools-ready1.jpg" width=93>  &nbsp;
-<img src="./assets/CharlesProxy-logo1.png" width=76> &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=77> <br>
+ <img src="./assets/postman1-logo.png" width=80> &nbsp; <img src="./assets/http-20.png" width=70> &nbsp; <img src="./assets/black-devtools-ready1.jpg" width=84>  &nbsp;
+<img src="./assets/CharlesProxy-logo1.png" width=68> &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=70> <br>
 
 _____
 
@@ -33,9 +32,12 @@ _____
 _____
 
 ## 📋 Profile Summary 📊:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ivan-Niki&theme=algolia) &nbsp; &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivan-Niki&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=blue_green)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ivan-Niki&theme=blue_green) &nbsp; &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ivan-Niki&theme=blue_green)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivan-Niki&theme=blue_green)-->
+
 _____
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Niki&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💬 Contact Me 📞
 <!--<p align="left"> <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture> </a> <a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-logo-5.png" width="34" height="32" /> </picture> </a> </p> <br> -->
