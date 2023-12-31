@@ -3,16 +3,16 @@
 ## Hi there 👋. I'm a beginner QA engineer.
 ### 💎 I’m currently have the following skills and knowledges:
 ✔️Knowledge of the principles, types and methods of testing; <br>
-✔️Knowledge of test design techniques (Equivalence Partitioning Testing, Boundary Value Testing, Pairwise Testing, Decision Table Testing); <br>
+✔️Knowledge of test design techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table Testing); <br>
 ✔️Understanding the software development lifecycle; <br>
+✔️Understanding of software development methodologies (Watarfall, V-model, Scrum, Kanban); <br>
+✔️Creating test documentation (checklists, test cases, bug reports, test report); <br>
 ✔️Testing web and mobile applications; <br>
-✔️Creating test documentation (check-lists, test cases, bug reports, test result report); <br>
-✔️Understanding of software development methodologies (Scrum, Kanban); <br>
-✔️Understanding client-server architecture; <br>
+✔️Understanding оf client-server architecture; <br>
 ✔️Experience in using web development tools (Chrome DevTools); <br>
-✔️API-testing using Postman (REST, SOAP); <br>
-✔️Experience of using Charles & Fiddler sniffer; <br>
-✔️Knowledge of SQL
+✔️API testing using Postman (REST, SOAP); <br>
+✔️Experience of using Charles & Fiddler sniffers; <br>
+✔️Knowledge of SQL.
 ___
 
 ## 📈 My Skill Set and Tools 💻
