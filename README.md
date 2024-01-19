@@ -35,7 +35,7 @@ _____
 <a href="./certificates/Ivan_Nikitenko_Git.png"><img src="./certificates/Ivan_Nikitenko_Git.png" width=200></a>
 <a href="./certificates/Ivan_Nikitenko_SQL.png"><img src="./certificates/Ivan_Nikitenko_SQL.png" width=200></a>
 <a href="./certificates/Ivan_Nikitenko_Postman.png"><img src="./certificates/Ivan_Nikitenko_Postman.png" width=200></a>
-
+<a href="./certificates/Ivan_Nikitenko_CSA.png"><img src="./certificates/Ivan_Nikitenko_CSA.png" width=200></a>
 
 ## 📋 Profile Summary 📊:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=blue_green)
