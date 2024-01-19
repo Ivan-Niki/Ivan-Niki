@@ -30,7 +30,7 @@ _____
 ## 💎 My Codewars ❗
 [![codewars](https://www.codewars.com/users/Ivan_Nikitenko/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
 _____
-<a href="./certificates/Ivan Nikitenko_Terminal.png"><img src="./certificates/Ivan Nikitenko_Terminal.png" width=200></a>
+<a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200></a>
 <a href="./certificates/Ivan_Nikitenko_Git.png><img src="./certificates/Ivan_Nikitenko_Git.png" width=200></a>
 
 ## 📋 Profile Summary 📊:
