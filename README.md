@@ -31,7 +31,7 @@ _____
 [![codewars](https://www.codewars.com/users/Ivan_Nikitenko/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
 _____
 ## 📃 My Certificates 💯
-<span onMouseOver="this.style.border='5px solid red'"><a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200></a></span>
+<a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200 onMouseOver="this.style.color='#0F0'"></a>
 <a href="./certificates/Ivan_Nikitenko_Git.png"><img src="./certificates/Ivan_Nikitenko_Git.png" width=200></a>
 <a href="./certificates/Ivan_Nikitenko_SQL.png"><img src="./certificates/Ivan_Nikitenko_SQL.png" width=200></a>
 
