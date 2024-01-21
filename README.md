@@ -12,7 +12,8 @@
 ✔️Experience in using web development tools (Chrome DevTools); <br>
 ✔️API testing using Postman (REST, SOAP); <br>
 ✔️Experience of using Charles & Fiddler sniffers; <br>
-✔️Knowledge of SQL.
+✔️Knowledge of SQL; <br>
+✔️Performance testing using JMeter;
 ____
 
 ## 📈 My Skill Set and Tools 💻
