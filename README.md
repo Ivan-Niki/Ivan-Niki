@@ -4,9 +4,9 @@
 ### 💎 I’m currently have the following skills and knowledges:
 ✔️Knowledge of the principles, types and methods of testing; <br>
 ✔️Knowledge of test design techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table Testing); <br>
-✔️Understanding the software development lifecycle; <br>
-✔️Understanding of software development methodologies (Watarfall, V-model, Scrum, Kanban); <br>
-✔️Creating test documentation (checklists, test cases, bug reports, test report); <br>
+✔️Understanding of the software development lifecycle; <br>
+✔️Understanding of software development methodologies (Waterfall, V-model, Scrum, Kanban); <br>
+✔️Creating test documentation (checklists, test cases, bug reports, test reports); <br>
 ✔️Testing web and mobile applications; <br>
 ✔️Understanding оf client-server architecture; <br>
 ✔️Experience in using web development tools (Chrome DevTools); <br>
