@@ -37,8 +37,8 @@ _____
 <br>
 <a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200></a> &nbsp;
 <a href="./certificates/Ivan_Nikitenko_Git.png"><img src="./certificates/Ivan_Nikitenko_Git.png" width=200></a> &nbsp;
-<a href="./certificates/Ivan_Nikitenko_SQL.png"><img src="./certificates/Ivan_Nikitenko_SQL.png" width=200></a>
-<a href="./certificates/Ivan_Nikitenko_Postman.png"><img src="./certificates/Ivan_Nikitenko_Postman.png" width=200></a> &nbsp;
+<a href="./certificates/Ivan_Nikitenko_SQL.png"><img src="./certificates/Ivan_Nikitenko_SQL.png" width=200></a> &nbsp;
+<a href="./certificates/Ivan_Nikitenko_Postman.png"><img src="./certificates/Ivan_Nikitenko_Postman.png" width=200></a> 
 <a href="./certificates/Ivan_Nikitenko_CSA.png"><img src="./certificates/Ivan_Nikitenko_CSA.png" width=200></a> <br>
  
 _____
