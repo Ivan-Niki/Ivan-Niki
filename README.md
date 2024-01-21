@@ -13,7 +13,8 @@
 ✔️API testing using Postman (REST, SOAP); <br>
 ✔️Experience of using Charles & Fiddler sniffers; <br>
 ✔️Knowledge of SQL; <br>
-✔️Performance testing using JMeter;
+✔️Performance testing using JMeter; <br>
+✔️Experience of using Linux-terminal commands.
 ____
 
 ## 📈 My Skill Set and Tools 💻
