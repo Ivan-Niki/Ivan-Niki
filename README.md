@@ -32,8 +32,8 @@ _____
 [![codewars](https://www.codewars.com/users/Ivan_Nikitenko/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
 _____
 ## <img src="./assets/certif17.png" width=27> My Certificates 💯
-<a href="./certificates/HTML-CSS_stepic-course.png"><img src="./certificates/HTML-CSS_stepic-course.png" width=200 height=126></a> &nbsp; 
-<a href="./certificates/Postman_for_API-testing_stepic-course-1.png"><img src="./certificates/Postman_for_API-testing_stepic-course-1.png" width=200 height=126></a>
+<a href="./certificates/Postman_for_API-testing_stepic-course-1.png"><img src="./certificates/Postman_for_API-testing_stepic-course-1.png" width=200 height=126></a> &nbsp;
+<a href="./certificates/HTML-CSS_stepic-course.png"><img src="./certificates/HTML-CSS_stepic-course.png" width=200 height=126></a>
 <br>
 <a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200></a> &nbsp;
 <a href="./certificates/Ivan_Nikitenko_Git.png"><img src="./certificates/Ivan_Nikitenko_Git.png" width=200></a> &nbsp;
