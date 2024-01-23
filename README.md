@@ -4,7 +4,7 @@
 Hi there 👋. I'm a beginner QA engineer.
 </h1>
 
-### 💎 I’m currently have the following skills and knowledges:
+## 💎 I’m currently have the following skills and knowledges:
 ✔️Knowledge of the principles, types and methods of testing; <br>
 ✔️Knowledge of test design techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table Testing); <br>
 ✔️Understanding of the software development lifecycle; <br>
