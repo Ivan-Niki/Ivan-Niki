@@ -21,9 +21,9 @@ Hi there 👋. I'm a beginner QA engineer.
 
 _____
 
-<h1 align="center">📈 My Skill Set and Tools 💻</h1>
+<!-- <h1 align="center">📈 My Skill Set and Tools 💻</h1> -->
 
-<!-- ## 📈 My Skill Set and Tools 💻 -->
+## 📈 My Skill Set and Tools 💻
 
 <img src="./assets/git2-logo.png" width=80> &nbsp;<img src="./assets/GitHub-Logo223.png" width=90> &nbsp; <img src="./assets/linux-operating-system-3.png" width=75> &nbsp;&nbsp;
 <img src="./assets/postgresql-icon.png" width=80> &nbsp; &nbsp; <img src="./assets/mysql-icon.png" width=76> &nbsp; &nbsp; <img src="./assets/dbeaver-logo-final-1.jpg" width=70 height=75> <br>
@@ -31,9 +31,10 @@ _____
 <img src="./assets/CharlesProxy-logo1.png" width=68> &nbsp; &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=70> &nbsp; &nbsp;<img src="./assets/jmeter_square.svg" width=78> <br>
 
 _____
-<h1 align="center">🚀 Technologies 📠 </h1>
 
-<!-- ## 🚀 Technologies 📠 -->
+<!-- <h1 align="center">🚀 Technologies 📠 </h1> -->
+
+## 🚀 Technologies 📠
 
 <img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> &nbsp; <img src="./assets/js-logo1.png" width=75>
 
