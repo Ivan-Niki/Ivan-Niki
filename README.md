@@ -1,6 +1,9 @@
 ![Logo](assets/header-logo.png)
 
-## Hi there 👋. I'm a beginner QA engineer.
+<h2 align="center"> 
+Hi there 👋. I'm a beginner QA engineer.
+</h2>
+
 ### 💎 I’m currently have the following skills and knowledges:
 ✔️Knowledge of the principles, types and methods of testing; <br>
 ✔️Knowledge of test design techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table Testing); <br>
