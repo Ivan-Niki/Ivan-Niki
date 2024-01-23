@@ -28,8 +28,8 @@ _____
  <img src="./assets/postman1-logo.png" width=76> &nbsp; &nbsp; <img src="./assets/http-20.png" width=70> &nbsp; &nbsp; <img src="./assets/black-devtools-ready1.jpg" width=84>  &nbsp; &nbsp;
 <img src="./assets/CharlesProxy-logo1.png" width=68> &nbsp; &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=70> &nbsp; &nbsp;<img src="./assets/jmeter_square.svg" width=78> <br>
 _____
-
-## 🚀 Technologies 📠
+<h1 align="center">🚀 Technologies 📠</h1>
+<!-- ## 🚀 Technologies 📠 -->
 <img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> &nbsp; <img src="./assets/js-logo1.png" width=75>
 _____
 
