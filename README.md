@@ -1,8 +1,8 @@
 ![Logo](assets/header-logo.png)
 
-<h2 align="center"> 
+<h1 align="center"> 
 Hi there 👋. I'm a beginner QA engineer.
-</h2>
+</h1>
 
 ### 💎 I’m currently have the following skills and knowledges:
 ✔️Knowledge of the principles, types and methods of testing; <br>
