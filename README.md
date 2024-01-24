@@ -26,7 +26,8 @@ _____
 ## 📈 My Skill Set and Tools 💻
 
 <img src="./assets/git2-logo.png" width=80> &nbsp;<img src="./assets/GitHub-Logo223.png" width=90> &nbsp; <img src="./assets/linux-operating-system-3.png" width=75> &nbsp;&nbsp;
-<img src="./assets/postgresql-icon.png" width=80> &nbsp; &nbsp; <img src="./assets/mysql-icon.png" width=76> &nbsp; &nbsp; <img src="./assets/dbeaver-logo-final-1.jpg" width=70 height=75> <br>
+<img src="./assets/postgresql-icon.png" width=80> &nbsp; &nbsp; <img src="./assets/mysql-icon.png" width=76> &nbsp; &nbsp; <img src="./assets/dbeaver-logo-final-1.jpg" width=70 height=75> &nbsp; &nbsp;
+<br>
  <img src="./assets/postman1-logo.png" width=76> &nbsp; &nbsp; <img src="./assets/http-20.png" width=70> &nbsp; &nbsp; <img src="./assets/black-devtools-ready1.jpg" width=84>  &nbsp; &nbsp;
 <img src="./assets/CharlesProxy-logo1.png" width=68> &nbsp; &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=70> &nbsp; &nbsp;<img src="./assets/jmeter_square.svg" width=78> <br>
 
@@ -49,9 +50,9 @@ _____
 <a href="./certificates/Ivan_Nikitenko_SQL.png"><img src="./certificates/Ivan_Nikitenko_SQL.png" width=200></a> &nbsp;
 <a href="./certificates/Ivan_Nikitenko_Postman.png"><img src="./certificates/Ivan_Nikitenko_Postman.png" width=200></a> 
 <a href="./certificates/Ivan_Nikitenko_CSA.png"><img src="./certificates/Ivan_Nikitenko_CSA.png" width=200></a> &nbsp;
-<a href="./certificates/Postman_for_API-testing_stepic-course-1.png"><img src="./certificates/Postman_for_API-testing_stepic-course-1.png" width=200 height=126></a> &nbsp;
-<a href="./certificates/HTML-CSS_stepic-course.png"><img src="./certificates/HTML-CSS_stepic-course.png" width=200 height=126></a> &nbsp;
-<a href="./certificates/stepik-cert-js-foundation-wh.png"><img src="./certificates/stepik-cert-js-foundation-wh.png" width=200 height=126></a> 
+<a href="./certificates/Postman-API-testing-stepik-course.png"><img src="./certificates/Postman-API-testing-stepik-course.png" width=200 height=126></a> &nbsp;
+<a href="./certificates/HTML-CSS_stepik-course.png"><img src="./certificates/HTML-CSS_stepik-course.png" width=200 height=126></a> &nbsp;
+<a href="./certificates/JS-foundation-stepik-cert-wh.png"><img src="./certificates/JS-foundation-stepik-cert-wh.png" width=200 height=126></a> 
 <br>
 _____
 
