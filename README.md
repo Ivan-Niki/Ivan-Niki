@@ -1,7 +1,7 @@
 ![Logo](assets/header-logo.png)
 
 <h1 align="center"> 
-Hi there 👋. I'm a beginner QA engineer.
+<img src="./assets/comp-tel.gif" width=120> Hi there 👋. I'm a beginner QA engineer.
 </h1>
 
 ## 💎 I’m currently have the following skills and knowledges:
