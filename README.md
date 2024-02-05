@@ -1,10 +1,10 @@
 ![Logo](assets/header-logo.png)
 
 <h1 align="center"> 
-<img src="./assets/comp-tel.gif" width=120> Hi there 👋. I'm a beginner QA engineer.
+Hi there 👋. I'm a beginner QA engineer.
 </h1>
 
-## 💎 I’m currently have the following skills and knowledges:
+## 💎 I’m currently have the following skills and knowledges: <img src="./assets/comp-tel.gif" width=100>
 ✔️Knowledge of the principles, types and methods of testing; <br>
 ✔️Knowledge of test design techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table Testing); <br>
 ✔️Understanding of the software development lifecycle; <br>
