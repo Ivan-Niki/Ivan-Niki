@@ -4,7 +4,7 @@
 Hi there 👋. I'm a beginner QA engineer.
 </h1>
 
-## 💎 I’m currently have the following skills and knowledges: <img src="./assets/comp-tel.gif" width=100>
+## 💎 I’m currently have the following skills and knowledges: 
 ✔️Knowledge of the principles, types and methods of testing; <br>
 ✔️Knowledge of test design techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table Testing); <br>
 ✔️Understanding of the software development lifecycle; <br>
@@ -17,7 +17,7 @@ Hi there 👋. I'm a beginner QA engineer.
 ✔️Experience of using Charles & Fiddler sniffers; <br>
 ✔️Knowledge of SQL; <br>
 ✔️Performance testing using JMeter; <br>
-✔️Experience of using Linux-terminal commands.
+✔️Experience of using Linux-terminal commands. <br> <img src="./assets/comp-tel.gif" width=100>
 
 _____
 
