@@ -25,7 +25,7 @@ _____
 ## 📈 My Skill Set and Tools 💻 
 
 <img src="./assets/git2-logo.png" width=80> &nbsp;<img src="./assets/GitHub-Logo223.png" width=90> &nbsp; <img src="./assets/linux-operating-system-3.png" width=75> &nbsp;&nbsp;
-<img src="./assets/postgresql-icon.png" width=80> &nbsp; &nbsp; <img src="./assets/mysql-icon.png" width=76> &nbsp; &nbsp; <img src="./assets/dbeaver-logo-final-1.jpg" width=70 height=75> &nbsp; &nbsp;
+<img src="./assets/postgresql-icon.png" width=80> &nbsp; &nbsp; <img src="./assets/mysql-icon.png" width=76> &nbsp; &nbsp; <img src="./assets/dbeaver-logo-final-1.jpg" width=70 height=75> &nbsp; &nbsp; <img src="./assets/cat2.gif" width=90>
 <br>
  <img src="./assets/postman1-logo.png" width=76> &nbsp; &nbsp; <img src="./assets/http-20.png" width=70> &nbsp; &nbsp; <img src="./assets/black-devtools-ready1.jpg" width=84>  &nbsp; &nbsp;
 <img src="./assets/CharlesProxy-logo1.png" width=68> &nbsp; &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=70> &nbsp; &nbsp;<img src="./assets/jmeter_square.svg" width=78> &nbsp; <img src="./assets/2GU.gif" width=75>
@@ -35,7 +35,7 @@ _____
 <!-- <h1 align="center">🚀 Technologies 📠 </h1> -->
 
 ## 🚀 Technologies 📠
-<img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> &nbsp; <img src="./assets/js-logo1.png" width=75> &nbsp; 
+<img src="./assets/html5-logo.png" width=80> <img src="./assets/css3-logo-2.png" width=80> &nbsp; <img src="./assets/js-logo1.png" width=75> &nbsp;
 _____
 
 ## 💎 My Codewars ❗
