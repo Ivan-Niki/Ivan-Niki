@@ -55,6 +55,7 @@ _____
 _____
 ## 💬 Contact Me 📞
 <a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-button-icon1.png" height="35" /> </a> &nbsp; <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <img src="assets/linkedin_button_icon.png" height="35" /> </a>
+_____
 
 ## 📋 Profile Summary 📊:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=blue_green)
