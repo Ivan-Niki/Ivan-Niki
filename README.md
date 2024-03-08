@@ -53,6 +53,8 @@ _____
 <a href="./certificates/Python-Generation-stepik-wh.png"><img src="./certificates/Python-Generation-stepik-wh.png" width=200 height=126></a>
 <br>
 _____
+## 💬 Contact Me 📞
+<a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-button-icon1.png" height="35" /> </a> &nbsp; <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <img src="assets/linkedin_button_icon.png" height="35" /> </a>
 
 ## 📋 Profile Summary 📊:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-Niki&theme=blue_green)
