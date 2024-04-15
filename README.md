@@ -50,7 +50,7 @@ _____
 <a href="./certificates/Postman-API-testing-stepik-course.png"><img src="./certificates/Postman-API-testing-stepik-course.png" width=200 height=126></a> &nbsp;
 <a href="./certificates/HTML-CSS_stepik-course.png"><img src="./certificates/HTML-CSS_stepik-course.png" width=200 height=126></a> &nbsp;
 <a href="./certificates/JS-foundation-stepik-cert-wh.png"><img src="./certificates/JS-foundation-stepik-cert-wh.png" width=200 height=126></a> 
-<a href="./certificates/Python-Generation-stepik-wh.png"><img src="./certificates/Python-Generation-stepik-wh.png" width=200 height=126></a>
+<a href="./certificates/Python-Generation-stepik-wh.png"><img src="./certificates/Python-Generation-stepik-wh.png" width=200 height=126></a> &nbsp;
 <a href="./certificates/HTML-CSS-JS_stepik-wh.png"><img src="./certificates/HTML-CSS-JS_stepik-wh.png" width=200 height=126></a>
 <br>
 _____
