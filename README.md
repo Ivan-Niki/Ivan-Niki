@@ -42,7 +42,7 @@ _____
 [![codewars](https://www.codewars.com/users/Ivan_Nikitenko/badges/large)](https://www.codewars.com/users/Ivan_Nikitenko)
 _____
 ## <img src="./assets/certif17.png" width=27> My Certificates 💯
-<a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200></a> &nbsp;
+<a href="./certificates/Ivan_Nikitenko_Terminal.png"><img src="./certificates/Ivan_Nikitenko_Terminal.png" width=200 title="Click to watch full size certificate"></a> &nbsp;
 <a href="./certificates/Ivan_Nikitenko_Git.png"><img src="./certificates/Ivan_Nikitenko_Git.png" width=200></a> &nbsp;
 <a href="./certificates/Ivan_Nikitenko_SQL.png"><img src="./certificates/Ivan_Nikitenko_SQL.png" width=200></a> &nbsp;
 <a href="./certificates/Ivan_Nikitenko_Postman.png"><img src="./certificates/Ivan_Nikitenko_Postman.png" width=200></a> 
