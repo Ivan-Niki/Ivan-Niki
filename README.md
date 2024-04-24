@@ -29,7 +29,7 @@ _____
 <br>
  <img src="./assets/postman1-logo.png" width=76> &nbsp; &nbsp; <img src="./assets/http-20.png" width=70> &nbsp; &nbsp; <img src="./assets/black-devtools-ready1.jpg" width=84>  &nbsp; &nbsp;
 <img src="./assets/CharlesProxy-logo1.png" width=68> &nbsp; &nbsp; <img src="./assets/Fiddler-Everywhere-Icon.png" width=70> &nbsp; &nbsp;<img src="./assets/jmeter_square.svg" width=78> &nbsp; 
-<!-- <img src="./assets/2GU.gif" width=75> -->
+<img src="./assets/2GU.gif" width=70 align="right">
 
 _____
 
