@@ -53,7 +53,8 @@ _____
 <a href="./certificates/JS-foundation-stepik-cert-wh.png"><img src="./certificates/JS-foundation-stepik-cert-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a> 
 <a href="./certificates/Python-Generation-stepik-wh.png"><img src="./certificates/Python-Generation-stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a> &nbsp;
 <a href="./certificates/HTML-CSS-JS_stepik-wh.png"><img src="./certificates/HTML-CSS-JS_stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a> &nbsp;
-<a href="./certificates/Testing-Universe_stepik-wh.png"><img src="./certificates/Testing-Universe_stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a>
+<a href="./certificates/Testing-Universe_stepik-wh.png"><img src="./certificates/Testing-Universe_stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a> &nbsp;
+<a href="./certificates/Software-Testing_stepik-wh.png"><img src="./certificates/Software-Testing_stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a>
 <br>
 _____
 ## 💬 Contact Me 📞
