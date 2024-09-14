@@ -56,7 +56,7 @@ _____
 <a href="./certificates/Testing-Universe_stepik-wh.png"><img src="./certificates/Testing-Universe_stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a> &nbsp;
 <a href="./certificates/Software-Testing_stepik-wh.png"><img src="./certificates/Software-Testing_stepik-wh.png" width=200 height=126 title="Click to watch full-size certificate"></a>
 <br>
-
+<a href="./certificates/Postman-QA-with-honor.png"><img src="./certificates/Postman-QA-with-honor.png" width=200 height=126 title="Click to watch full-size certificate"></a> &nbsp;
 _____
 ## 💬 Contact Me 📞
 <a href="https://t.me/man_Ivan" target="_blank" rel="noreferrer"> <img src="assets/telegram-button-icon1.png" height="35" /> </a> &nbsp; <a href="https://www.linkedin.com/in/ivan-nikitenko-qa/" target="_blank" rel="noreferrer"> <img src="assets/linkedin_button_icon.png" height="35" /> </a>
